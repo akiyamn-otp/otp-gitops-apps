@@ -1,3 +1,5 @@
 resources:
-- acm-resources
-- transaction-service
+- channel.yaml
+- placementrule.yaml
+- subscription.yaml
+- application.yaml
