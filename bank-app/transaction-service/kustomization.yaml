@@ -1,10 +1,10 @@
 resources:
 - namespace.yaml
-- bank-appid-secret.yaml
-- bank-db-secret.yaml
-- bank-oidc-secret.yaml
+#- bank-appid-secret.yaml
+#- bank-db-secret.yaml
+#- bank-oidc-secret.yaml
 - deployment.yaml
-- route.yaml
+#- route.yaml
 - service.yaml
-- serviceexport.yaml
+#- serviceexport.yaml
 
