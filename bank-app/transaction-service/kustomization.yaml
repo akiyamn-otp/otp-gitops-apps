@@ -2,5 +2,5 @@ resources:
 - channel.yaml
 - placementrule.yaml
 - subscription.yaml
-- transaction-service
+# - transaction-service
 # - application.yaml
