@@ -4,7 +4,7 @@ resources:
 #- bank-db-secret.yaml
 #- bank-oidc-secret.yaml
 - deployment.yaml
-#- route.yaml
+- route.yaml
 - service.yaml
-#- serviceexport.yaml
+- serviceexport.yaml
 
