@@ -1,0 +1,11 @@
+resources:
+- namespace.yaml
+- placement-rule.yaml
+#- bank-appid-secret.yaml
+#- bank-db-secret.yaml
+#- bank-oidc-secret.yaml
+- deployment.yaml
+- route.yaml
+- service.yaml
+- serviceexport.yaml
+
