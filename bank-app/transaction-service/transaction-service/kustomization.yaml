@@ -1,9 +1,0 @@
-resources:
-- bank-appid-secret.yaml
-- deployment.yaml
-- serviceexport.yaml
-- bank-db-secret.yaml
-- service.yaml
-- bank-oidc-secret.yaml
-- route.yaml
-
