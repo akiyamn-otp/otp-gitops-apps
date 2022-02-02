@@ -1,0 +1,4 @@
+resources:
+- mobile-simulator
+- transaction-service
+- user-service
